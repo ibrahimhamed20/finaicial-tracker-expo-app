@@ -222,4 +222,4 @@ If you have any questions or need help, please:
 
 ---
 
-**Made with ❤️ using React Native and Expo**
+**Made with ❤️ By Ibrahim Hamed using React Native and Expo**
